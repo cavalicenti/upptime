@@ -13,7 +13,8 @@ sites:
     url: http://proveedores.albanesi.com.ar:8081/web/index.php/site/login
   - name: Albanesi Frontend
     url: http://proveedores.albanesi.com.ar:8081
-
+assignees: # Users to assign downtime issues (optional)
+  - cavalicenti
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -25,8 +26,8 @@ status-website:
   navbar:
     - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
     - title: PortalDesa
       href: https://sites.google.com/artfos.com.ar/portal-desarrollo/home
 
