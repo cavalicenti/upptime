@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Artfos
     url: https://www.artfos.com.ar
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: OCEBA frontend
+    url: https://conreg-fe.oceba.gba.gov.ar
   - name: OCEBA Backend
     url: https://conreg-be.oceba.gba.gov.ar
 
@@ -16,8 +16,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Estado de aplicaciones."
+  introMessage: "**Artfos S.A** este es el estado de las aplicaciones en la infraestructura de OCEBA monitoreadas por Artfos"
   navbar:
     - title: Estado
       href: /
