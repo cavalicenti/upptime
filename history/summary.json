@@ -22,18 +22,20 @@
     "url": "https://intranet.artfos.com.ar/equipo/",
     "icon": "https://favicons.githubusercontent.com/intranet.artfos.com.ar",
     "slug": "artfos-erp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 389,
-    "timeWeek": 389,
-    "timeMonth": 389,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 414,
+    "timeDay": 414,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "OCEBA frontend",
