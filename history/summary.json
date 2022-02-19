@@ -4,19 +4,19 @@
     "url": "https://www.artfos.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.artfos.com.ar",
     "slug": "artfos",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2232,
     "timeDay": 1687,
     "timeWeek": 2853,
     "timeMonth": 2232,
     "timeYear": 2232,
     "dailyMinutesDown": {
-      "2022-02-19": 6
+      "2022-02-19": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://intranet.artfos.com.ar/equipo/",
     "icon": "https://favicons.githubusercontent.com/intranet.artfos.com.ar",
     "slug": "artfos-erp",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 453,
     "timeDay": 432,
     "timeWeek": 473,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2022-02-19": 6,
+      "2022-02-19": 2,
       "2022-02-12": 15
     }
   },
@@ -117,19 +117,19 @@
     "url": "https://www.buenosairesanglers.com/",
     "icon": "https://favicons.githubusercontent.com/www.buenosairesanglers.com",
     "slug": "ba-anglers",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 1902,
     "timeDay": 2320,
     "timeWeek": 2061,
     "timeMonth": 1902,
     "timeYear": 1902,
     "dailyMinutesDown": {
-      "2022-02-19": 5,
+      "2022-02-19": 2,
       "2022-02-15": 37
     }
   },
@@ -138,19 +138,19 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://favicons.githubusercontent.com/www.janaxsoftware.com.ar",
     "slug": "janax-soft",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1333,
     "timeDay": 1422,
     "timeWeek": 1321,
     "timeMonth": 1333,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2022-02-19": 5
+      "2022-02-19": 1
     }
   },
   {
@@ -158,19 +158,19 @@
     "url": "https://www.masvalores.com.ar/",
     "icon": "https://favicons.githubusercontent.com/www.masvalores.com.ar",
     "slug": "mas-valores",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 967,
     "timeDay": 1169,
     "timeWeek": 1021,
     "timeMonth": 967,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2022-02-19": 4
+      "2022-02-19": 1
     }
   },
   {
@@ -178,19 +178,19 @@
     "url": "https://www.transportesruta66.com.ar/",
     "icon": "https://favicons.githubusercontent.com/www.transportesruta66.com.ar",
     "slug": "tr-66",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 897,
     "timeDay": 968,
     "timeWeek": 974,
     "timeMonth": 897,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2022-02-19": 4
+      "2022-02-19": 0
     }
   }
 ]
