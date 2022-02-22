@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.artfos.com.ar",
     "slug": "artfos",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2129,
     "timeDay": 1019,
     "timeWeek": 2293,
     "timeMonth": 2129,
     "timeYear": 2129,
-    "dailyMinutesDown": {
-      "2022-02-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Artfos ERP",
@@ -25,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/intranet.artfos.com.ar",
     "slug": "artfos-erp",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 451,
     "timeDay": 322,
     "timeWeek": 467,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-02-22": 5,
       "2022-02-12": 15
     }
   },
@@ -81,10 +78,10 @@
     "url": "http://proveedores.albanesi.com.ar:8081/web/index.php/site/login",
     "icon": "https://favicons.githubusercontent.com/proveedores.albanesi.com.ar",
     "slug": "albanesi-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 709,
@@ -92,7 +89,9 @@
     "timeWeek": 750,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 1
+    }
   },
   {
     "name": "Albanesi Frontend",
@@ -118,18 +117,17 @@
     "icon": "https://favicons.githubusercontent.com/www.buenosairesanglers.com",
     "slug": "ba-anglers",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 2357,
     "timeDay": 4129,
     "timeWeek": 2387,
     "timeMonth": 2357,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2022-02-22": 5,
       "2022-02-15": 37
     }
   },
@@ -139,19 +137,17 @@
     "icon": "https://favicons.githubusercontent.com/www.janaxsoftware.com.ar",
     "slug": "janax-soft",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1413,
     "timeDay": 1185,
     "timeWeek": 1468,
     "timeMonth": 1413,
     "timeYear": 1413,
-    "dailyMinutesDown": {
-      "2022-02-22": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mas Valores",
@@ -159,19 +155,17 @@
     "icon": "https://favicons.githubusercontent.com/www.masvalores.com.ar",
     "slug": "mas-valores",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 988,
     "timeDay": 718,
     "timeWeek": 973,
     "timeMonth": 988,
     "timeYear": 988,
-    "dailyMinutesDown": {
-      "2022-02-22": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TR66",
@@ -179,18 +173,16 @@
     "icon": "https://favicons.githubusercontent.com/www.transportesruta66.com.ar",
     "slug": "tr-66",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 912,
     "timeDay": 737,
     "timeWeek": 976,
     "timeMonth": 912,
     "timeYear": 912,
-    "dailyMinutesDown": {
-      "2022-02-22": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
