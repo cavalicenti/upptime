@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2129,
-    "timeDay": 1019,
-    "timeWeek": 2293,
-    "timeMonth": 2129,
-    "timeYear": 2129,
+    "time": 2179,
+    "timeDay": 2359,
+    "timeWeek": 2157,
+    "timeMonth": 2179,
+    "timeYear": 2179,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 451,
-    "timeDay": 322,
-    "timeWeek": 467,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "time": 452,
+    "timeDay": 354,
+    "timeWeek": 434,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2022-02-12": 15
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 836,
-    "timeWeek": 960,
-    "timeMonth": 954,
-    "timeYear": 954,
+    "time": 955,
+    "timeDay": 976,
+    "timeWeek": 923,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1696,
-    "timeDay": 1640,
-    "timeWeek": 1686,
-    "timeMonth": 1696,
-    "timeYear": 1696,
+    "time": 1694,
+    "timeDay": 1669,
+    "timeWeek": 1685,
+    "timeMonth": 1694,
+    "timeYear": 1694,
     "dailyMinutesDown": {}
   },
   {
@@ -79,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/proveedores.albanesi.com.ar",
     "slug": "albanesi-backend",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 704,
-    "timeDay": 635,
-    "timeWeek": 736,
-    "timeMonth": 704,
-    "timeYear": 704,
-    "dailyMinutesDown": {
-      "2022-02-22": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 711,
+    "timeDay": 729,
+    "timeWeek": 689,
+    "timeMonth": 711,
+    "timeYear": 711,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Albanesi Frontend",
@@ -105,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 196,
-    "timeWeek": 191,
+    "timeDay": 194,
+    "timeWeek": 192,
     "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {}
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 2357,
-    "timeDay": 4129,
-    "timeWeek": 2387,
-    "timeMonth": 2357,
-    "timeYear": 2357,
+    "time": 2267,
+    "timeDay": 2473,
+    "timeWeek": 2384,
+    "timeMonth": 2267,
+    "timeYear": 2267,
     "dailyMinutesDown": {
       "2022-02-15": 37
     }
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1413,
-    "timeDay": 1185,
-    "timeWeek": 1468,
-    "timeMonth": 1413,
-    "timeYear": 1413,
+    "time": 1415,
+    "timeDay": 1232,
+    "timeWeek": 1456,
+    "timeMonth": 1415,
+    "timeYear": 1415,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 718,
-    "timeWeek": 973,
-    "timeMonth": 988,
-    "timeYear": 988,
+    "time": 1014,
+    "timeDay": 1115,
+    "timeWeek": 995,
+    "timeMonth": 1014,
+    "timeYear": 1014,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 737,
-    "timeWeek": 976,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "time": 913,
+    "timeDay": 768,
+    "timeWeek": 958,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   }
 ]
