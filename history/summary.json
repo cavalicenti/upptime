@@ -4,19 +4,19 @@
     "url": "https://www.artfos.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.artfos.com.ar",
     "slug": "artfos",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2043,
-    "timeDay": 2048,
-    "timeWeek": 1729,
-    "timeMonth": 2043,
-    "timeYear": 2043,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 2432,
+    "timeDay": 7881,
+    "timeWeek": 3061,
+    "timeMonth": 2432,
+    "timeYear": 2432,
     "dailyMinutesDown": {
-      "2022-03-01": 7
+      "2022-03-01": 11
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/www.buenosairesanglers.com",
     "slug": "ba-anglers",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.81%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 3165,
     "timeDay": 14851,
     "timeWeek": 4907,
     "timeMonth": 3165,
     "timeYear": 3165,
     "dailyMinutesDown": {
-      "2022-03-01": 1,
+      "2022-03-01": 8,
       "2022-02-15": 37
     }
   },
@@ -138,18 +138,18 @@
     "icon": "https://favicons.githubusercontent.com/www.janaxsoftware.com.ar",
     "slug": "janax-soft",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1363,
     "timeDay": 1268,
     "timeWeek": 1220,
     "timeMonth": 1363,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2022-03-01": 5
+      "2022-03-01": 12
     }
   },
   {
@@ -176,18 +176,16 @@
     "icon": "https://favicons.githubusercontent.com/www.transportesruta66.com.ar",
     "slug": "tr-66",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1115,
     "timeDay": 3441,
     "timeWeek": 1419,
     "timeMonth": 1115,
     "timeYear": 1115,
-    "dailyMinutesDown": {
-      "2022-03-01": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
