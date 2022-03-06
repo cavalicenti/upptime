@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 2391,
-    "timeDay": 2964,
-    "timeWeek": 3037,
-    "timeMonth": 2391,
-    "timeYear": 2391,
+    "time": 2405,
+    "timeDay": 2888,
+    "timeWeek": 3336,
+    "timeMonth": 2405,
+    "timeYear": 2405,
     "dailyMinutesDown": {
       "2022-03-01": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 727,
-    "timeDay": 466,
-    "timeWeek": 1431,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "time": 720,
+    "timeDay": 504,
+    "timeWeek": 1452,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2022-03-01": 15,
       "2022-02-12": 15
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 1551,
-    "timeWeek": 1028,
-    "timeMonth": 963,
-    "timeYear": 963,
+    "time": 960,
+    "timeDay": 879,
+    "timeWeek": 1036,
+    "timeMonth": 960,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1717,
-    "timeDay": 1692,
-    "timeWeek": 1729,
-    "timeMonth": 1717,
-    "timeYear": 1717,
+    "time": 1720,
+    "timeDay": 1797,
+    "timeWeek": 1733,
+    "timeMonth": 1720,
+    "timeYear": 1720,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 918,
-    "timeWeek": 789,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "time": 742,
+    "timeDay": 637,
+    "timeWeek": 780,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -106,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 201,
-    "timeWeek": 194,
+    "timeDay": 199,
+    "timeWeek": 200,
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -118,16 +118,16 @@
     "icon": "https://favicons.githubusercontent.com/www.buenosairesanglers.com",
     "slug": "ba-anglers",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 3482,
-    "timeDay": 611,
-    "timeWeek": 6315,
-    "timeMonth": 3482,
-    "timeYear": 3482,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 3493,
+    "timeDay": 3854,
+    "timeWeek": 6337,
+    "timeMonth": 3493,
+    "timeYear": 3493,
     "dailyMinutesDown": {
       "2022-02-15": 37
     }
@@ -143,11 +143,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1617,
-    "timeDay": 1485,
-    "timeWeek": 2201,
-    "timeMonth": 1617,
-    "timeYear": 1617,
+    "time": 1603,
+    "timeDay": 1202,
+    "timeWeek": 2213,
+    "timeMonth": 1603,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2022-03-01": 40
     }
@@ -163,11 +163,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1592,
-    "timeDay": 1342,
-    "timeWeek": 2988,
-    "timeMonth": 1592,
-    "timeYear": 1592,
+    "time": 1557,
+    "timeDay": 576,
+    "timeWeek": 2953,
+    "timeMonth": 1557,
+    "timeYear": 1557,
     "dailyMinutesDown": {
       "2022-03-01": 22
     }
@@ -183,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1061,
-    "timeWeek": 1563,
-    "timeMonth": 1100,
-    "timeYear": 1100,
+    "time": 1093,
+    "timeDay": 901,
+    "timeWeek": 1593,
+    "timeMonth": 1093,
+    "timeYear": 1093,
     "dailyMinutesDown": {}
   }
 ]
