@@ -81,19 +81,19 @@
     "url": "http://proveedores.albanesi.com.ar:8081/web/index.php/site/login",
     "icon": "https://favicons.githubusercontent.com/proveedores.albanesi.com.ar",
     "slug": "albanesi-backend",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
-    "time": 760,
-    "timeDay": 602,
-    "timeWeek": 834,
-    "timeMonth": 778,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
+    "time": 758,
+    "timeDay": 640,
+    "timeWeek": 815,
+    "timeMonth": 774,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2022-03-18": 29
+      "2022-03-18": 41
     }
   },
   {
