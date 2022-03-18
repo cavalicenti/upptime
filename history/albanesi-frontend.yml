@@ -1,7 +1,7 @@
 url: http://proveedores.albanesi.com.ar:8081
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-03-18T09:31:26.398Z
+status: up
+code: 200
+responseTime: 18110
+lastUpdated: 2022-03-18T09:58:51.680Z
 startTime: Fri Feb 11 2022 23:38:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
