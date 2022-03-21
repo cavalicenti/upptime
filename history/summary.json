@@ -64,19 +64,19 @@
     "url": "https://conreg-be.oceba.gba.gov.ar",
     "icon": "https://favicons.githubusercontent.com/conreg-be.oceba.gba.gov.ar",
     "slug": "oceba-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1721,
-    "timeDay": 1689,
-    "timeWeek": 1746,
-    "timeMonth": 1735,
-    "timeYear": 1721,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1720,
+    "timeDay": 1670,
+    "timeWeek": 1734,
+    "timeMonth": 1732,
+    "timeYear": 1720,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 19
     }
   },
   {
