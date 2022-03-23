@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 2299,
-    "timeDay": 3268,
-    "timeWeek": 2085,
-    "timeMonth": 2392,
-    "timeYear": 2299,
+    "time": 2267,
+    "timeDay": 580,
+    "timeWeek": 1756,
+    "timeMonth": 2334,
+    "timeYear": 2267,
     "dailyMinutesDown": {
       "2022-03-01": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/intranet.artfos.com.ar",
     "slug": "artfos-erp",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.91%",
-    "time": 822,
-    "timeDay": 416,
-    "timeWeek": 1611,
-    "timeMonth": 1012,
-    "timeYear": 822,
+    "uptimeYear": "99.92%",
+    "time": 815,
+    "timeDay": 457,
+    "timeWeek": 1610,
+    "timeMonth": 1037,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2022-03-18": 16,
       "2022-03-01": 15,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 1019,
-    "timeWeek": 1129,
-    "timeMonth": 1010,
-    "timeYear": 989,
+    "time": 1112,
+    "timeDay": 6687,
+    "timeWeek": 1842,
+    "timeMonth": 1214,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   },
   {
@@ -66,15 +66,15 @@
     "slug": "oceba-backend",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1722,
-    "timeDay": 1731,
-    "timeWeek": 1752,
-    "timeMonth": 1738,
-    "timeYear": 1722,
+    "time": 1721,
+    "timeDay": 1712,
+    "timeWeek": 1672,
+    "timeMonth": 1740,
+    "timeYear": 1721,
     "dailyMinutesDown": {
       "2022-03-21": 19
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 766,
-    "timeDay": 669,
-    "timeWeek": 773,
-    "timeMonth": 796,
-    "timeYear": 766,
+    "time": 762,
+    "timeDay": 617,
+    "timeWeek": 740,
+    "timeMonth": 794,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2022-03-18": 41
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 590,
-    "timeDay": 207,
-    "timeWeek": 2435,
+    "time": 581,
+    "timeDay": 195,
+    "timeWeek": 2433,
     "timeMonth": 814,
-    "timeYear": 590,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2022-03-18": 27
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3145,
-    "timeDay": 627,
-    "timeWeek": 1661,
-    "timeMonth": 3625,
-    "timeYear": 3145,
+    "time": 3095,
+    "timeDay": 616,
+    "timeWeek": 1053,
+    "timeMonth": 3602,
+    "timeYear": 3095,
     "dailyMinutesDown": {
       "2022-02-15": 37
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 1774,
-    "timeDay": 1612,
-    "timeWeek": 2719,
-    "timeMonth": 1936,
-    "timeYear": 1774,
+    "time": 1765,
+    "timeDay": 1352,
+    "timeWeek": 2707,
+    "timeMonth": 1964,
+    "timeYear": 1765,
     "dailyMinutesDown": {
       "2022-03-01": 40
     }
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1451,
-    "timeDay": 1280,
-    "timeWeek": 1247,
-    "timeMonth": 1677,
-    "timeYear": 1451,
+    "time": 1446,
+    "timeDay": 1182,
+    "timeWeek": 1221,
+    "timeMonth": 1698,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2022-03-01": 22
     }
@@ -190,11 +190,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1052,
-    "timeDay": 998,
-    "timeWeek": 953,
-    "timeMonth": 1110,
-    "timeYear": 1052,
+    "time": 1050,
+    "timeDay": 954,
+    "timeWeek": 928,
+    "timeMonth": 1128,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2022-03-18": 15
     }
