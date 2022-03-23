@@ -64,9 +64,9 @@
     "url": "https://conreg-be.oceba.gba.gov.ar",
     "icon": "https://favicons.githubusercontent.com/conreg-be.oceba.gba.gov.ar",
     "slug": "oceba-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -76,6 +76,7 @@
     "timeMonth": 1740,
     "timeYear": 1721,
     "dailyMinutesDown": {
+      "2022-03-23": 0,
       "2022-03-21": 19
     }
   },
