@@ -46,9 +46,9 @@
     "url": "https://conreg-fe.oceba.gba.gov.ar",
     "icon": "https://favicons.githubusercontent.com/conreg-fe.oceba.gba.gov.ar",
     "slug": "oceba-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 1842,
     "timeMonth": 1214,
     "timeYear": 1112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   },
   {
     "name": "OCEBA Backend",
@@ -65,18 +67,17 @@
     "icon": "https://favicons.githubusercontent.com/conreg-be.oceba.gba.gov.ar",
     "slug": "oceba-backend",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1719,
     "timeDay": 1664,
     "timeWeek": 1666,
     "timeMonth": 1736,
     "timeYear": 1719,
     "dailyMinutesDown": {
-      "2022-03-23": 6,
       "2022-03-21": 19
     }
   },
