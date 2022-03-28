@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 2195,
-    "timeDay": 123,
-    "timeWeek": 1738,
-    "timeMonth": 2282,
-    "timeYear": 2195,
+    "time": 2186,
+    "timeDay": 1704,
+    "timeWeek": 1586,
+    "timeMonth": 2316,
+    "timeYear": 2186,
     "dailyMinutesDown": {
       "2022-03-24": 16,
       "2022-03-01": 24
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 773,
-    "timeDay": 195,
-    "timeWeek": 391,
-    "timeMonth": 1017,
-    "timeYear": 773,
+    "time": 763,
+    "timeDay": 202,
+    "timeWeek": 359,
+    "timeMonth": 1009,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2022-03-24": 15,
       "2022-03-18": 16,
@@ -54,11 +54,11 @@
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.72%",
-    "time": 1356,
-    "timeDay": 2807,
-    "timeWeek": 2995,
-    "timeMonth": 1654,
-    "timeYear": 1356,
+    "time": 1364,
+    "timeDay": 1298,
+    "timeWeek": 3019,
+    "timeMonth": 1685,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2022-03-27": 175
     }
@@ -69,16 +69,16 @@
     "icon": "https://favicons.githubusercontent.com/conreg-be.oceba.gba.gov.ar",
     "slug": "oceba-backend",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "87.90%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.69%",
-    "time": 1949,
-    "timeDay": 4104,
-    "timeWeek": 2881,
-    "timeMonth": 2125,
-    "timeYear": 1949,
+    "uptimeYear": "99.70%",
+    "time": 1943,
+    "timeDay": 2074,
+    "timeWeek": 2871,
+    "timeMonth": 2123,
+    "timeYear": 1943,
     "dailyMinutesDown": {
       "2022-03-27": 174,
       "2022-03-21": 19
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 756,
-    "timeDay": 506,
-    "timeWeek": 737,
-    "timeMonth": 775,
-    "timeYear": 756,
+    "time": 757,
+    "timeDay": 815,
+    "timeWeek": 685,
+    "timeMonth": 781,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2022-03-18": 41
     }
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 550,
-    "timeDay": 151,
-    "timeWeek": 194,
-    "timeMonth": 816,
-    "timeYear": 550,
+    "time": 542,
+    "timeDay": 154,
+    "timeWeek": 189,
+    "timeMonth": 815,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2022-03-18": 27
     }
@@ -135,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 3060,
-    "timeDay": 3651,
-    "timeWeek": 1926,
-    "timeMonth": 3637,
-    "timeYear": 3060,
+    "time": 3009,
+    "timeDay": 229,
+    "timeWeek": 1877,
+    "timeMonth": 3623,
+    "timeYear": 3009,
     "dailyMinutesDown": {
       "2022-02-15": 37
     }
@@ -155,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 1712,
-    "timeDay": 976,
-    "timeWeek": 1321,
-    "timeMonth": 1943,
-    "timeYear": 1712,
+    "time": 1701,
+    "timeDay": 1122,
+    "timeWeek": 1267,
+    "timeMonth": 1937,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2022-03-01": 40
     }
@@ -175,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1408,
-    "timeDay": 773,
-    "timeWeek": 1152,
-    "timeMonth": 1676,
-    "timeYear": 1408,
+    "time": 1399,
+    "timeDay": 919,
+    "timeWeek": 1088,
+    "timeMonth": 1666,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2022-03-01": 22
     }
@@ -195,11 +195,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1047,
-    "timeDay": 512,
-    "timeWeek": 993,
-    "timeMonth": 1144,
-    "timeYear": 1047,
+    "time": 1039,
+    "timeDay": 620,
+    "timeWeek": 955,
+    "timeMonth": 1135,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2022-03-18": 15
     }
