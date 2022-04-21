@@ -12,9 +12,9 @@ sites:
   - name: OCEBA Backend
     url: https://conreg-be.oceba.gba.gov.ar
   - name: Albanesi Backend
-    url: http://proveedores.albanesi.com.ar:8081/web/index.php/site/login
+    url: http://proveedores.albanesi.com.ar/web/index.php/site/login
   - name: Albanesi Frontend
-    url: http://proveedores.albanesi.com.ar:8081
+    url: http://proveedores.albanesi.com.ar
   - name: BA Anglers
     url: https://www.buenosairesanglers.com/
   - name: Janax Soft
