@@ -125,7 +125,7 @@
     "slug": "albanesi-backend",
     "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "38.75%",
+    "uptimeDay": "38.74%",
     "uptimeWeek": "91.25%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.04%",
@@ -135,7 +135,7 @@
     "timeMonth": 739,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2022-04-21": 619,
+      "2022-04-21": 620,
       "2022-04-20": 263,
       "2022-04-08": 27,
       "2022-03-18": 41
