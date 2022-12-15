@@ -6,7 +6,7 @@ sites:
   - name: Artfos
     url: https://www.artfos.com.ar
   - name: Artfos ERP
-    url: https://intranet.artfos.com.ar/equipo/
+    url: https://intranet.artfos.com.ar/
   - name: OCEBA frontend
     url: https://conreg-fe.oceba.gba.gov.ar
   - name: OCEBA Backend
