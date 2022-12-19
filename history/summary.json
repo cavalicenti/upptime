@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-19": 1341,
+      "2022-12-19": 1349,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-19": 1341,
+      "2022-12-19": 1349,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -144,19 +144,19 @@
     "url": "http://proveedores.albanesi.com.ar/web/index.php/site/login",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-backend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1321,
-    "timeDay": 1369,
-    "timeWeek": 1321,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1339,
+    "timeDay": 1398,
+    "timeWeek": 1339,
+    "timeMonth": 1339,
+    "timeYear": 1339,
     "dailyMinutesDown": {
-      "2022-12-19": 1
+      "2022-12-19": 9
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 302,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 339,
+    "timeDay": 330,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 9
     }
   }
 ]
