@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-24": 66,
+      "2022-12-24": 946,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -51,9 +51,9 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,7 +62,9 @@
     "timeWeek": 3634,
     "timeMonth": 3571,
     "timeYear": 3571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-24": 0
+    }
   },
   {
     "name": "15-Mas Valores",
@@ -70,13 +72,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1076,
-    "timeDay": 1053,
+    "timeDay": 900,
     "timeWeek": 1136,
     "timeMonth": 1076,
     "timeYear": 1076,
@@ -101,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-24": 66,
+      "2022-12-24": 947,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
