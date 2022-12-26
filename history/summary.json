@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 72,
+      "2022-12-26": 286,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
@@ -71,9 +71,9 @@
     "url": "https://www.masvalores.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -83,6 +83,7 @@
     "timeMonth": 1099,
     "timeYear": 1099,
     "dailyMinutesDown": {
+      "2022-12-26": 0,
       "2022-12-16": 17
     }
   },
@@ -103,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 72,
+      "2022-12-26": 286,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
