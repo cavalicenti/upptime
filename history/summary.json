@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-13": 76,
+      "2023-01-13": 1189,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
@@ -71,9 +71,9 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 4952,
     "timeMonth": 4223,
     "timeYear": 4223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-13": 0
+    }
   },
   {
     "name": "15-Mas Valores",
@@ -121,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-13": 76,
+      "2023-01-13": 1189,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
