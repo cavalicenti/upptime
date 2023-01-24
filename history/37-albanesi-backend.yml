@@ -1,7 +1,7 @@
 url: http://proveedores.albanesi.com.ar/web/index.php/site/login
-status: up
-code: 200
-responseTime: 1350
-lastUpdated: 2023-01-23T23:10:19.695Z
+status: down
+code: 500
+responseTime: 1522
+lastUpdated: 2023-01-24T18:16:25.723Z
 startTime: Thu Dec 15 2022 13:24:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
