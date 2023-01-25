@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 478,
+      "2023-01-25": 512,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -66,19 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.artfos.com.ar.ico",
     "slug": "00-artfos-erp",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 690,
     "timeWeek": 703,
     "timeMonth": 680,
     "timeYear": 679,
-    "dailyMinutesDown": {
-      "2023-01-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "00-Janax Soft",
@@ -86,19 +84,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4141,
     "timeDay": 4762,
     "timeWeek": 4368,
     "timeMonth": 4352,
     "timeYear": 4141,
-    "dailyMinutesDown": {
-      "2023-01-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "15-Mas Valores",
@@ -106,18 +102,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1098,
     "timeDay": 946,
     "timeWeek": 1203,
     "timeMonth": 1105,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
       "2022-12-16": 17
     }
   },
@@ -138,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 478,
+      "2023-01-25": 512,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -187,10 +182,10 @@
     "url": "https://conreg-fe.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-fe.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 994,
@@ -198,16 +193,18 @@
     "timeWeek": 1044,
     "timeMonth": 983,
     "timeYear": 994,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "31-OCEBA Backend",
     "url": "https://conreg-be.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-be.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -216,7 +213,9 @@
     "timeWeek": 2689,
     "timeMonth": 2193,
     "timeYear": 2229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "37-Albanesi Backend",
