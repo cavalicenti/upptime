@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 281,
+      "2023-01-29": 288,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -87,19 +87,19 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4311,
-    "timeDay": 5041,
-    "timeWeek": 5498,
-    "timeMonth": 4688,
-    "timeYear": 4311,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 4319,
+    "timeDay": 4890,
+    "timeWeek": 5413,
+    "timeMonth": 4689,
+    "timeYear": 4319,
     "dailyMinutesDown": {
-      "2023-01-29": 0
+      "2023-01-29": 6
     }
   },
   {
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 281,
+      "2023-01-29": 288,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
