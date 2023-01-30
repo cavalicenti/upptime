@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 288,
+      "2023-01-30": 71,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -75,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 420,
-    "timeWeek": 654,
-    "timeMonth": 667,
-    "timeYear": 674,
+    "time": 669,
+    "timeDay": 456,
+    "timeWeek": 621,
+    "timeMonth": 663,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -88,19 +89,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4319,
-    "timeDay": 4890,
-    "timeWeek": 5413,
-    "timeMonth": 4689,
-    "timeYear": 4319,
-    "dailyMinutesDown": {
-      "2023-01-29": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4317,
+    "timeDay": 4475,
+    "timeWeek": 5338,
+    "timeMonth": 4699,
+    "timeYear": 4317,
+    "dailyMinutesDown": {}
   },
   {
     "name": "15-Mas Valores",
@@ -113,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1100,
-    "timeDay": 889,
-    "timeWeek": 1215,
-    "timeMonth": 1103,
-    "timeYear": 1100,
+    "time": 1098,
+    "timeDay": 982,
+    "timeWeek": 1060,
+    "timeMonth": 1107,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2022-12-16": 17
     }
@@ -139,7 +138,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 288,
+      "2023-01-30": 72,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -198,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 820,
-    "timeWeek": 1088,
-    "timeMonth": 1011,
-    "timeYear": 1006,
+    "time": 1001,
+    "timeDay": 747,
+    "timeWeek": 1047,
+    "timeMonth": 1008,
+    "timeYear": 1001,
     "dailyMinutesDown": {}
   },
   {
@@ -216,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2196,
-    "timeDay": 1659,
-    "timeWeek": 2279,
-    "timeMonth": 2190,
-    "timeYear": 2196,
+    "time": 2185,
+    "timeDay": 1655,
+    "timeWeek": 2183,
+    "timeMonth": 2187,
+    "timeYear": 2185,
     "dailyMinutesDown": {}
   },
   {
@@ -229,16 +229,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-backend",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.72%",
-    "time": 1200,
-    "timeDay": 1095,
-    "timeWeek": 1306,
-    "timeMonth": 1152,
-    "timeYear": 1200,
+    "uptimeYear": "99.73%",
+    "time": 1195,
+    "timeDay": 942,
+    "timeWeek": 1230,
+    "timeMonth": 1155,
+    "timeYear": 1195,
     "dailyMinutesDown": {
       "2023-01-24": 179
     }
@@ -254,11 +254,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 301,
-    "timeWeek": 392,
+    "time": 366,
+    "timeDay": 302,
+    "timeWeek": 373,
     "timeMonth": 374,
-    "timeYear": 367,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
