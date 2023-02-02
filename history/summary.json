@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 76,
+      "2023-02-02": 1173,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -100,7 +100,7 @@
     "time": 4356,
     "timeDay": 5163,
     "timeWeek": 5188,
-    "timeMonth": 4831,
+    "timeMonth": 4885,
     "timeYear": 4356,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 76,
+      "2023-02-02": 1173,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -198,10 +198,10 @@
     "url": "https://conreg-fe.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-fe.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1003,
@@ -209,16 +209,18 @@
     "timeWeek": 995,
     "timeMonth": 1016,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-02": 1
+    }
   },
   {
     "name": "31-OCEBA Backend",
     "url": "https://conreg-be.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-be.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -227,7 +229,9 @@
     "timeWeek": 2466,
     "timeMonth": 2209,
     "timeYear": 2249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-02": 0
+    }
   },
   {
     "name": "37-Albanesi Backend",
@@ -235,11 +239,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-backend",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 1202,
     "timeDay": 1079,
     "timeWeek": 1222,
