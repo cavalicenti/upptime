@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 1173,
+      "2023-02-03": 78,
+      "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -79,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 631,
-    "timeWeek": 667,
-    "timeMonth": 679,
-    "timeYear": 673,
+    "time": 675,
+    "timeDay": 747,
+    "timeWeek": 674,
+    "timeMonth": 686,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -97,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4356,
-    "timeDay": 5163,
-    "timeWeek": 5188,
-    "timeMonth": 4885,
-    "timeYear": 4356,
+    "time": 4376,
+    "timeDay": 5523,
+    "timeWeek": 4919,
+    "timeMonth": 4949,
+    "timeYear": 4376,
     "dailyMinutesDown": {}
   },
   {
@@ -115,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1111,
-    "timeDay": 1534,
-    "timeWeek": 1235,
-    "timeMonth": 1138,
-    "timeYear": 1111,
+    "time": 1113,
+    "timeDay": 1224,
+    "timeWeek": 1211,
+    "timeMonth": 1144,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2022-12-16": 17
     }
@@ -141,7 +142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 1173,
+      "2023-02-03": 78,
+      "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -199,18 +201,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/conreg-fe.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-frontend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.51%",
+    "uptimeDay": "75.99%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.51%",
     "time": 1003,
-    "timeDay": 966,
-    "timeWeek": 995,
-    "timeMonth": 1016,
+    "timeDay": 1031,
+    "timeWeek": 987,
+    "timeMonth": 1002,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-02-02": 1
+      "2023-02-03": 78,
+      "2023-02-02": 267
     }
   },
   {
@@ -219,18 +222,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/conreg-be.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2249,
-    "timeDay": 2533,
-    "timeWeek": 2466,
-    "timeMonth": 2209,
-    "timeYear": 2249,
+    "uptime": "99.52%",
+    "uptimeDay": "76.03%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.52%",
+    "time": 2227,
+    "timeDay": 1056,
+    "timeWeek": 2338,
+    "timeMonth": 2179,
+    "timeYear": 2227,
     "dailyMinutesDown": {
-      "2023-02-02": 0
+      "2023-02-03": 78,
+      "2023-02-02": 267
     }
   },
   {
@@ -244,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.75%",
-    "time": 1202,
-    "timeDay": 1079,
-    "timeWeek": 1222,
-    "timeMonth": 1183,
-    "timeYear": 1202,
+    "time": 1201,
+    "timeDay": 1154,
+    "timeWeek": 1215,
+    "timeMonth": 1187,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2023-01-24": 179
     }
@@ -264,11 +268,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 384,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 368,
+    "time": 369,
+    "timeDay": 422,
+    "timeWeek": 380,
+    "timeMonth": 383,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   }
 ]
