@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 1303,
+      "2023-02-07": 1309,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -78,19 +78,19 @@
     "url": "https://intranet.artfos.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.artfos.com.ar.ico",
     "slug": "00-artfos-erp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 679,
-    "timeWeek": 691,
-    "timeMonth": 684,
-    "timeYear": 676,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 672,
+    "timeDay": 558,
+    "timeWeek": 660,
+    "timeMonth": 677,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2023-02-07": 0
+      "2023-02-07": 6
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 1303,
+      "2023-02-07": 1309,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
