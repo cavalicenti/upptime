@@ -1,7 +1,7 @@
 url: http://proveedores.albanesi.com.ar
-status: down
-code: 502
-responseTime: 292
-lastUpdated: 2023-04-14T16:18:42.070Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2023-04-14T16:34:03.690Z
 startTime: Thu Dec 15 2022 13:24:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
