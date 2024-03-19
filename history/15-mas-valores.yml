@@ -1,7 +1,7 @@
 url: https://www.masvalores.com.ar/
-status: up
-code: 200
-responseTime: 1026
-lastUpdated: 2024-03-18T23:10:07.641Z
+status: down
+code: 500
+responseTime: 555
+lastUpdated: 2024-03-19T05:22:01.222Z
 startTime: 2022-12-15T13:24:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
