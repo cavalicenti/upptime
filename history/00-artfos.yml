@@ -1,7 +1,7 @@
 url: https://www.artfos.com.ar
-status: up
-code: 200
-responseTime: 2225
-lastUpdated: 2024-03-30T23:08:51.756Z
+status: down
+code: 403
+responseTime: 762
+lastUpdated: 2024-03-31T06:25:37.899Z
 startTime: 2022-12-15T13:24:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
