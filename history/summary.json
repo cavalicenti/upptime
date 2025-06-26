@@ -217,9 +217,9 @@
     "url": "https://conreg-be.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-be.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.83%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "98.64%",
@@ -229,6 +229,7 @@
     "timeMonth": 2353,
     "timeYear": 2013,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2025-06-22": 218,
       "2025-04-30": 202,
       "2025-01-30": 926,
@@ -261,7 +262,7 @@
     "timeMonth": 1003,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2025-06-26": 103,
+      "2025-06-26": 257,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
