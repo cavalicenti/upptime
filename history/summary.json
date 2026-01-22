@@ -4,18 +4,19 @@
     "url": "https://www.artfos.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.artfos.com.ar.ico",
     "slug": "00-artfos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "96.97%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.44%",
-    "time": 3316,
+    "time": 3318,
     "timeDay": 4730,
     "timeWeek": 3950,
     "timeMonth": 3981,
     "timeYear": 3609,
     "dailyMinutesDown": {
+      "2026-01-22": 1,
       "2026-01-21": 26,
       "2026-01-19": 36,
       "2026-01-18": 33,
@@ -69,7 +70,7 @@
       "2025-11-16": 21,
       "2025-11-14": 43,
       "2025-11-13": 34,
-      "2025-11-10": 34
+      "2025-11-10": 17
     }
   },
   {
@@ -77,10 +78,10 @@
     "url": "https://intranet.artfos.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.artfos.com.ar.ico",
     "slug": "00-artfos-erp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "97.86%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "99.44%",
     "time": 823,
@@ -89,6 +90,7 @@
     "timeMonth": 883,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2026-01-22": 1,
       "2026-01-21": 26,
       "2026-01-19": 35,
       "2026-01-18": 33,
@@ -143,7 +145,7 @@
       "2025-11-17": 55,
       "2025-11-16": 21,
       "2025-11-14": 43,
-      "2025-11-13": 34
+      "2025-11-13": 18
     }
   },
   {
@@ -151,18 +153,19 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "99.41%",
-    "time": 3059,
+    "time": 3061,
     "timeDay": 4963,
     "timeWeek": 3920,
     "timeMonth": 3754,
     "timeYear": 3297,
     "dailyMinutesDown": {
+      "2026-01-22": 1,
       "2026-01-21": 26,
       "2026-01-19": 35,
       "2026-01-18": 33,
@@ -215,8 +218,7 @@
       "2025-11-20": 84,
       "2025-11-17": 54,
       "2025-11-16": 21,
-      "2025-11-14": 43,
-      "2025-11-13": 18
+      "2025-11-14": 43
     }
   },
   {
@@ -224,9 +226,9 @@
     "url": "https://www.masvalores.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "98.18%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.44%",
@@ -236,6 +238,7 @@
     "timeMonth": 1131,
     "timeYear": 1139,
     "dailyMinutesDown": {
+      "2026-01-22": 1,
       "2026-01-21": 26,
       "2026-01-19": 35,
       "2026-01-18": 33,
@@ -290,7 +293,7 @@
       "2025-11-16": 20,
       "2025-11-14": 42,
       "2025-11-13": 32,
-      "2025-11-10": 49
+      "2025-11-10": 33
     }
   },
   {
@@ -298,18 +301,19 @@
     "url": "https://www.transportesruta66.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.transportesruta66.com.ar.ico",
     "slug": "20-tr-66",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "98.06%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "97.12%",
-    "uptimeYear": "99.43%",
-    "time": 2376,
+    "uptimeYear": "99.44%",
+    "time": 2377,
     "timeDay": 2876,
     "timeWeek": 2732,
     "timeMonth": 2767,
     "timeYear": 2498,
     "dailyMinutesDown": {
+      "2026-01-22": 0,
       "2026-01-21": 25,
       "2026-01-19": 35,
       "2026-01-18": 33,
@@ -366,8 +370,7 @@
       "2025-11-10": 48,
       "2025-11-08": 43,
       "2025-11-06": 24,
-      "2025-11-05": 18,
-      "2025-10-25": 21
+      "2025-11-05": 18
     }
   },
   {
@@ -469,7 +472,7 @@
     "timeMonth": 1088,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2026-01-22": 113,
+      "2026-01-22": 301,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
