@@ -4,18 +4,19 @@
     "url": "https://www.artfos.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.artfos.com.ar.ico",
     "slug": "00-artfos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "91.37%",
     "uptimeMonth": "94.84%",
-    "uptimeYear": "99.36%",
-    "time": 3417,
+    "uptimeYear": "99.37%",
+    "time": 3418,
     "timeDay": 3908,
     "timeWeek": 3891,
     "timeMonth": 3960,
     "timeYear": 3653,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2026-02-03": 123,
       "2026-02-02": 250,
       "2026-02-01": 161,
@@ -61,8 +62,7 @@
       "2025-12-15": 27,
       "2025-12-14": 20,
       "2025-12-13": 47,
-      "2025-12-12": 26,
-      "2025-12-11": 23
+      "2025-12-12": 26
     }
   },
   {
@@ -376,7 +376,7 @@
     "status": "up",
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.40%",
     "time": 2354,
@@ -429,7 +429,7 @@
     "timeMonth": 1081,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2026-02-05": 128,
+      "2026-02-05": 303,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
