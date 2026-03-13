@@ -4,18 +4,19 @@
     "url": "https://www.artfos.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.artfos.com.ar.ico",
     "slug": "00-artfos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "87.81%",
-    "uptimeWeek": "87.27%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "87.25%",
     "uptimeMonth": "92.32%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 3611,
     "timeDay": 5014,
-    "timeWeek": 4123,
+    "timeWeek": 4137,
     "timeMonth": 4101,
     "timeYear": 3785,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 176,
       "2026-03-11": 447,
       "2026-03-10": 89,
@@ -50,8 +51,7 @@
       "2026-02-08": 136,
       "2026-02-07": 95,
       "2026-02-06": 40,
-      "2026-02-05": 161,
-      "2026-02-03": 22
+      "2026-02-05": 161
     }
   },
   {
@@ -59,18 +59,19 @@
     "url": "https://intranet.artfos.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.artfos.com.ar.ico",
     "slug": "00-artfos-erp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "87.88%",
-    "uptimeWeek": "87.33%",
+    "uptimeDay": "87.79%",
+    "uptimeWeek": "87.32%",
     "uptimeMonth": "92.40%",
-    "uptimeYear": "99.19%",
-    "time": 861,
+    "uptimeYear": "99.20%",
+    "time": 860,
     "timeDay": 885,
-    "timeWeek": 938,
+    "timeWeek": 943,
     "timeMonth": 943,
     "timeYear": 886,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 174,
       "2026-03-11": 445,
       "2026-03-10": 88,
@@ -106,7 +107,7 @@
       "2026-02-07": 95,
       "2026-02-06": 40,
       "2026-02-05": 101,
-      "2026-02-03": 123
+      "2026-02-03": 69
     }
   },
   {
@@ -114,18 +115,19 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "87.92%",
-    "uptimeWeek": "74.92%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "87.85%",
+    "uptimeWeek": "74.91%",
     "uptimeMonth": "89.56%",
-    "uptimeYear": "98.91%",
-    "time": 3321,
+    "uptimeYear": "98.93%",
+    "time": 3320,
     "timeDay": 4811,
     "timeWeek": 3864,
     "timeMonth": 3799,
     "timeYear": 3503,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 174,
       "2026-03-11": 444,
       "2026-03-10": 88,
@@ -162,8 +164,7 @@
       "2026-02-06": 40,
       "2026-02-05": 101,
       "2026-02-03": 123,
-      "2026-02-02": 249,
-      "2026-02-01": 2
+      "2026-02-02": 142
     }
   },
   {
@@ -171,18 +172,19 @@
     "url": "https://www.masvalores.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "87.60%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "87.93%",
+    "uptimeWeek": "87.59%",
     "uptimeMonth": "92.57%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.18%",
     "time": 1119,
     "timeDay": 1236,
-    "timeWeek": 1234,
+    "timeWeek": 1243,
     "timeMonth": 1209,
     "timeYear": 1161,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 173,
       "2026-03-11": 442,
       "2026-03-10": 88,
@@ -219,8 +221,7 @@
       "2026-02-06": 39,
       "2026-02-05": 100,
       "2026-02-03": 123,
-      "2026-02-02": 248,
-      "2026-02-01": 2
+      "2026-02-02": 141
     }
   },
   {
@@ -228,18 +229,19 @@
     "url": "https://www.transportesruta66.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.transportesruta66.com.ar.ico",
     "slug": "20-tr-66",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "87.09%",
-    "uptimeMonth": "87.86%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "87.08%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "98.73%",
     "time": 2521,
     "timeDay": 2907,
-    "timeWeek": 2852,
+    "timeWeek": 2860,
     "timeMonth": 2836,
     "timeYear": 2620,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 172,
       "2026-03-11": 496,
       "2026-03-10": 88,
@@ -278,7 +280,7 @@
       "2026-02-03": 120,
       "2026-02-02": 248,
       "2026-02-01": 157,
-      "2026-01-31": 110
+      "2026-01-31": 74
     }
   },
   {
@@ -294,7 +296,7 @@
     "uptimeYear": "99.49%",
     "time": 1232,
     "timeDay": 893,
-    "timeWeek": 1151,
+    "timeWeek": 1118,
     "timeMonth": 1136,
     "timeYear": 1317,
     "dailyMinutesDown": {
@@ -332,7 +334,7 @@
     "uptimeYear": "99.36%",
     "time": 2418,
     "timeDay": 1976,
-    "timeWeek": 2164,
+    "timeWeek": 2170,
     "timeMonth": 2076,
     "timeYear": 2567,
     "dailyMinutesDown": {
@@ -379,11 +381,12 @@
     "uptimeYear": "0.00%",
     "time": 1035,
     "timeDay": 886,
-    "timeWeek": 1055,
+    "timeWeek": 1066,
     "timeMonth": 1051,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-03-12": 1417,
+      "2026-03-13": 56,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -746,8 +749,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -763,7 +765,7 @@
     "uptimeYear": "99.72%",
     "time": 311,
     "timeDay": 293,
-    "timeWeek": 312,
+    "timeWeek": 315,
     "timeMonth": 305,
     "timeYear": 312,
     "dailyMinutesDown": {
