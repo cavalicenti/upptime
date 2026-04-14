@@ -1,7 +1,7 @@
 url: https://conreg-fe.oceba.gba.gov.ar
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2026-04-13T23:37:25.503Z
+status: down
+code: 502
+responseTime: 19397
+lastUpdated: 2026-04-14T22:10:42.662Z
 startTime: 2022-12-15T13:24:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
