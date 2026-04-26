@@ -1,7 +1,7 @@
 url: https://www.janaxsoftware.com.ar/
-status: up
-code: 200
-responseTime: 3822
-lastUpdated: 2026-04-26T05:57:41.491Z
+status: down
+code: 429
+responseTime: 421
+lastUpdated: 2026-04-26T15:54:18.058Z
 startTime: 2022-12-15T13:24:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
