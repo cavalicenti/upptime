@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "88.85%",
-    "uptimeWeek": "78.34%",
+    "uptimeWeek": "78.62%",
     "uptimeMonth": "73.80%",
     "uptimeYear": "96.78%",
     "time": 3930,
     "timeDay": 5141,
-    "timeWeek": 4724,
+    "timeWeek": 4723,
     "timeMonth": 4690,
     "timeYear": 4051,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
     "status": "up",
     "uptime": "99.11%",
     "uptimeDay": "89.52%",
-    "uptimeWeek": "78.95%",
+    "uptimeWeek": "79.20%",
     "uptimeMonth": "74.32%",
     "uptimeYear": "96.87%",
     "time": 891,
@@ -153,12 +153,12 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "90.18%",
-    "uptimeWeek": "79.56%",
+    "uptimeWeek": "79.77%",
     "uptimeMonth": "74.85%",
     "uptimeYear": "96.80%",
     "time": 3624,
     "timeDay": 4271,
-    "timeWeek": 4253,
+    "timeWeek": 4261,
     "timeMonth": 4090,
     "timeYear": 3723,
     "dailyMinutesDown": {
@@ -225,12 +225,12 @@
     "status": "up",
     "uptime": "98.84%",
     "uptimeDay": "90.85%",
-    "uptimeWeek": "80.18%",
+    "uptimeWeek": "80.34%",
     "uptimeMonth": "75.36%",
     "uptimeYear": "95.89%",
     "time": 1151,
     "timeDay": 1304,
-    "timeWeek": 1124,
+    "timeWeek": 1127,
     "timeMonth": 1114,
     "timeYear": 1177,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
     "uptimeYear": "95.92%",
     "time": 2645,
     "timeDay": 2991,
-    "timeWeek": 2960,
+    "timeWeek": 2957,
     "timeMonth": 2883,
     "timeYear": 2722,
     "dailyMinutesDown": {
@@ -385,7 +385,7 @@
     "uptimeYear": "98.80%",
     "time": 1492,
     "timeDay": 895,
-    "timeWeek": 1093,
+    "timeWeek": 1028,
     "timeMonth": 1124,
     "timeYear": 1636,
     "dailyMinutesDown": {
@@ -432,7 +432,7 @@
     "uptimeYear": "98.68%",
     "time": 2705,
     "timeDay": 4075,
-    "timeWeek": 6808,
+    "timeWeek": 7224,
     "timeMonth": 5268,
     "timeYear": 3014,
     "dailyMinutesDown": {
@@ -491,7 +491,7 @@
     "timeMonth": 977,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2026-06-27": 10,
+      "2026-06-27": 212,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -864,11 +864,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
     "status": "down",
-    "uptime": "97.79%",
+    "uptime": "97.78%",
     "uptimeDay": "51.02%",
     "uptimeWeek": "33.30%",
-    "uptimeMonth": "68.70%",
-    "uptimeYear": "94.67%",
+    "uptimeMonth": "68.24%",
+    "uptimeYear": "94.63%",
     "time": 369,
     "timeDay": 889,
     "timeWeek": 926,
@@ -908,7 +908,7 @@
       "2026-06-24": 785,
       "2026-06-25": 724,
       "2026-06-26": 706,
-      "2026-06-27": 10
+      "2026-06-27": 212
     }
   }
 ]
