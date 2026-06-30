@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.artfos.com.ar.ico",
     "slug": "00-artfos",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "79.62%",
-    "uptimeWeek": "80.49%",
+    "uptime": "99.06%",
+    "uptimeDay": "70.60%",
+    "uptimeWeek": "79.83%",
     "uptimeMonth": "71.93%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.67%",
     "time": 3945,
-    "timeDay": 5346,
+    "timeDay": 5450,
     "timeWeek": 4549,
     "timeMonth": 4696,
     "timeYear": 4054,
@@ -70,7 +70,7 @@
       "2026-06-27": 262,
       "2026-06-28": 373,
       "2026-06-29": 296,
-      "2026-06-30": 29
+      "2026-06-30": 219
     }
   },
   {
@@ -79,13 +79,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.artfos.com.ar.ico",
     "slug": "00-artfos-erp",
     "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "80.29%",
-    "uptimeWeek": "81.21%",
+    "uptime": "99.07%",
+    "uptimeDay": "71.26%",
+    "uptimeWeek": "80.50%",
     "uptimeMonth": "72.51%",
-    "uptimeYear": "96.76%",
+    "uptimeYear": "96.72%",
     "time": 893,
-    "timeDay": 808,
+    "timeDay": 581,
     "timeWeek": 852,
     "timeMonth": 914,
     "timeYear": 908,
@@ -145,7 +145,7 @@
       "2026-06-27": 248,
       "2026-06-28": 358,
       "2026-06-29": 291,
-      "2026-06-30": 25
+      "2026-06-30": 215
     }
   },
   {
@@ -154,13 +154,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "80.95%",
-    "uptimeWeek": "81.92%",
+    "uptime": "99.06%",
+    "uptimeDay": "71.92%",
+    "uptimeWeek": "81.16%",
     "uptimeMonth": "73.12%",
-    "uptimeYear": "96.70%",
+    "uptimeYear": "96.66%",
     "time": 3647,
-    "timeDay": 4320,
+    "timeDay": 4408,
     "timeWeek": 3982,
     "timeMonth": 4099,
     "timeYear": 3726,
@@ -219,7 +219,7 @@
       "2026-06-27": 234,
       "2026-06-28": 343,
       "2026-06-29": 286,
-      "2026-06-30": 20
+      "2026-06-30": 210
     }
   },
   {
@@ -228,13 +228,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "82.63%",
+    "uptime": "98.81%",
+    "uptimeDay": "72.59%",
+    "uptimeWeek": "81.83%",
     "uptimeMonth": "73.69%",
-    "uptimeYear": "95.81%",
+    "uptimeYear": "95.77%",
     "time": 1155,
-    "timeDay": 1103,
+    "timeDay": 946,
     "timeWeek": 1191,
     "timeMonth": 1129,
     "timeYear": 1178,
@@ -297,7 +297,7 @@
       "2026-06-27": 220,
       "2026-06-28": 330,
       "2026-06-29": 282,
-      "2026-06-30": 15
+      "2026-06-30": 205
     }
   },
   {
@@ -306,13 +306,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.transportesruta66.com.ar.ico",
     "slug": "20-tr-66",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "82.29%",
-    "uptimeWeek": "83.35%",
+    "uptime": "98.82%",
+    "uptimeDay": "73.25%",
+    "uptimeWeek": "82.50%",
     "uptimeMonth": "74.34%",
-    "uptimeYear": "95.84%",
+    "uptimeYear": "95.81%",
     "time": 2656,
-    "timeDay": 2971,
+    "timeDay": 3183,
     "timeWeek": 2970,
     "timeMonth": 2908,
     "timeYear": 2724,
@@ -377,7 +377,7 @@
       "2026-06-27": 205,
       "2026-06-28": 316,
       "2026-06-29": 277,
-      "2026-06-30": 10
+      "2026-06-30": 200
     }
   },
   {
@@ -499,7 +499,7 @@
     "timeMonth": 984,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2026-06-30": 33,
+      "2026-06-30": 223,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -872,11 +872,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
     "status": "down",
-    "uptime": "97.59%",
+    "uptime": "97.58%",
     "uptimeDay": "43.49%",
     "uptimeWeek": "33.85%",
-    "uptimeMonth": "60.22%",
-    "uptimeYear": "93.96%",
+    "uptimeMonth": "59.79%",
+    "uptimeYear": "93.92%",
     "time": 371,
     "timeDay": 852,
     "timeWeek": 906,
@@ -919,7 +919,7 @@
       "2026-06-29": 814,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-30": 33
+      "2026-06-30": 223
     }
   }
 ]
