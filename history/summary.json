@@ -399,11 +399,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/conreg-fe.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-frontend",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.66%",
+    "uptime": "99.05%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.65%",
     "time": 1515,
     "timeDay": 863,
     "timeWeek": 1160,
@@ -439,7 +439,7 @@
       "2026-05-05": 81,
       "2026-07-05": 642,
       "2026-07-15": 121,
-      "2026-07-22": 1
+      "2026-07-22": 76
     }
   },
   {
@@ -449,10 +449,10 @@
     "slug": "31-oceba-backend",
     "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.55%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.53%",
     "time": 2848,
     "timeDay": 3612,
     "timeWeek": 4300,
@@ -496,7 +496,7 @@
       "2026-05-21": 97,
       "2026-07-05": 641,
       "2026-07-15": 121,
-      "2026-07-22": 1
+      "2026-07-22": 76
     }
   },
   {
@@ -516,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2026-07-22": 1262,
+      "2026-07-22": 1337,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -888,10 +888,10 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "96.48%",
-    "uptimeDay": "48.30%",
-    "uptimeWeek": "33.79%",
+    "uptimeDay": "48.23%",
+    "uptimeWeek": "33.78%",
     "uptimeMonth": "34.72%",
     "uptimeYear": "89.83%",
     "time": 399,
@@ -957,7 +957,7 @@
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-21": 731,
-      "2026-07-22": 687
+      "2026-07-22": 688
     }
   }
 ]
