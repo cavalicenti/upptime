@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.artfos.com.ar.ico",
     "slug": "00-artfos",
     "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "83.74%",
+    "uptime": "99.00%",
+    "uptimeDay": "82.76%",
+    "uptimeWeek": "82.70%",
     "uptimeMonth": "87.49%",
-    "uptimeYear": "96.40%",
+    "uptimeYear": "96.38%",
     "time": 3979,
-    "timeDay": 3565,
+    "timeDay": 4303,
     "timeWeek": 4074,
     "timeMonth": 4439,
     "timeYear": 4106,
@@ -74,7 +74,7 @@
       "2026-07-27": 832,
       "2026-07-28": 96,
       "2026-07-29": 179,
-      "2026-07-30": 29
+      "2026-07-30": 134
     }
   },
   {
@@ -84,12 +84,12 @@
     "slug": "00-artfos-erp",
     "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "84.31%",
+    "uptimeDay": "83.42%",
+    "uptimeWeek": "83.27%",
     "uptimeMonth": "87.92%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.47%",
     "time": 892,
-    "timeDay": 816,
+    "timeDay": 818,
     "timeWeek": 810,
     "timeMonth": 865,
     "timeYear": 910,
@@ -151,7 +151,7 @@
       "2026-07-27": 822,
       "2026-07-28": 90,
       "2026-07-29": 171,
-      "2026-07-30": 25
+      "2026-07-30": 130
     }
   },
   {
@@ -160,13 +160,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "89.66%",
-    "uptimeWeek": "84.88%",
+    "uptime": "99.05%",
+    "uptimeDay": "84.09%",
+    "uptimeWeek": "83.84%",
     "uptimeMonth": "88.34%",
-    "uptimeYear": "96.58%",
+    "uptimeYear": "96.56%",
     "time": 3664,
-    "timeDay": 4189,
+    "timeDay": 4415,
     "timeWeek": 3996,
     "timeMonth": 3827,
     "timeYear": 3747,
@@ -229,7 +229,7 @@
       "2026-07-27": 813,
       "2026-07-28": 85,
       "2026-07-29": 161,
-      "2026-07-30": 20
+      "2026-07-30": 125
     }
   },
   {
@@ -239,12 +239,12 @@
     "slug": "15-mas-valores",
     "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "90.33%",
-    "uptimeWeek": "85.46%",
+    "uptimeDay": "84.75%",
+    "uptimeWeek": "84.42%",
     "uptimeMonth": "88.77%",
-    "uptimeYear": "96.67%",
+    "uptimeYear": "96.65%",
     "time": 1155,
-    "timeDay": 1484,
+    "timeDay": 1633,
     "timeWeek": 1175,
     "timeMonth": 1148,
     "timeYear": 1179,
@@ -307,7 +307,7 @@
       "2026-07-27": 803,
       "2026-07-28": 80,
       "2026-07-29": 152,
-      "2026-07-30": 15
+      "2026-07-30": 120
     }
   },
   {
@@ -317,12 +317,12 @@
     "slug": "20-tr-66",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "86.03%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "84.99%",
     "uptimeMonth": "89.20%",
-    "uptimeYear": "96.74%",
+    "uptimeYear": "96.72%",
     "time": 2667,
-    "timeDay": 3525,
+    "timeDay": 3955,
     "timeWeek": 2787,
     "timeMonth": 2794,
     "timeYear": 2740,
@@ -386,7 +386,7 @@
       "2026-07-27": 794,
       "2026-07-28": 75,
       "2026-07-29": 142,
-      "2026-07-30": 10
+      "2026-07-30": 115
     }
   },
   {
@@ -397,9 +397,9 @@
     "status": "up",
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.80%",
+    "uptimeWeek": "91.84%",
     "uptimeMonth": "95.64%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.55%",
     "time": 1521,
     "timeDay": 969,
     "timeWeek": 1351,
@@ -445,9 +445,9 @@
     "status": "up",
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.80%",
+    "uptimeWeek": "91.84%",
     "uptimeMonth": "95.64%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.45%",
     "time": 2872,
     "timeDay": 3378,
     "timeWeek": 3822,
@@ -509,7 +509,7 @@
     "timeMonth": 0,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-07-30": 41,
+      "2026-07-30": 146,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -886,7 +886,7 @@
     "uptimeDay": "43.30%",
     "uptimeWeek": "32.07%",
     "uptimeMonth": "34.29%",
-    "uptimeYear": "88.50%",
+    "uptimeYear": "88.48%",
     "time": 447,
     "timeDay": 981,
     "timeWeek": 4860,
@@ -958,7 +958,7 @@
       "2026-07-25": 1440,
       "2026-07-28": 781,
       "2026-07-29": 816,
-      "2026-07-30": 42
+      "2026-07-30": 146
     }
   }
 ]
