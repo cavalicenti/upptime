@@ -6,7 +6,7 @@
     "slug": "00-artfos",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "78.88%",
+    "uptimeDay": "84.47%",
     "uptimeWeek": "80.96%",
     "uptimeMonth": "86.07%",
     "uptimeYear": "96.93%",
@@ -80,7 +80,7 @@
     "slug": "00-artfos-erp",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "79.89%",
+    "uptimeDay": "85.15%",
     "uptimeWeek": "81.64%",
     "uptimeMonth": "86.59%",
     "uptimeYear": "97.03%",
@@ -154,7 +154,7 @@
     "slug": "00-janax-soft",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "80.89%",
+    "uptimeDay": "85.81%",
     "uptimeWeek": "82.30%",
     "uptimeMonth": "87.10%",
     "uptimeYear": "97.07%",
@@ -228,7 +228,7 @@
     "slug": "15-mas-valores",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "81.89%",
+    "uptimeDay": "86.48%",
     "uptimeWeek": "82.97%",
     "uptimeMonth": "87.62%",
     "uptimeYear": "97.17%",
@@ -302,7 +302,7 @@
     "slug": "20-tr-66",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "82.89%",
+    "uptimeDay": "87.15%",
     "uptimeWeek": "83.74%",
     "uptimeMonth": "88.16%",
     "uptimeYear": "96.66%",
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2026-08-05": 71,
+      "2026-08-05": 153,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -870,7 +870,7 @@
     "uptimeDay": "47.56%",
     "uptimeWeek": "31.23%",
     "uptimeMonth": "30.96%",
-    "uptimeYear": "87.33%",
+    "uptimeYear": "87.31%",
     "time": 455,
     "timeDay": 904,
     "timeWeek": 917,
@@ -948,7 +948,7 @@
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-08-04": 755,
-      "2026-08-05": 71
+      "2026-08-05": 153
     }
   }
 ]
