@@ -4,20 +4,19 @@
     "url": "https://www.artfos.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.artfos.com.ar.ico",
     "slug": "00-artfos",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "92.34%",
-    "uptimeMonth": "85.18%",
-    "uptimeYear": "97.98%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "85.13%",
+    "uptimeYear": "98.00%",
     "time": 4048,
     "timeDay": 3891,
     "timeWeek": 4394,
     "timeMonth": 4571,
     "timeYear": 4158,
     "dailyMinutesDown": {
-      "2026-06-29": 296,
-      "2026-06-28": 38,
+      "2026-06-29": 204,
       "2026-06-30": 273,
       "2026-07-01": 388,
       "2026-07-02": 431,
@@ -63,7 +62,7 @@
       "2026-08-17": 98,
       "2026-08-18": 198,
       "2026-08-19": 41,
-      "2026-08-20": 21
+      "2026-08-20": 41
     }
   },
   {
@@ -71,20 +70,19 @@
     "url": "https://intranet.artfos.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.artfos.com.ar.ico",
     "slug": "00-artfos-erp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "98.07%",
-    "time": 893,
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "93.25%",
+    "uptimeMonth": "85.92%",
+    "uptimeYear": "98.09%",
+    "time": 894,
     "timeDay": 828,
     "timeWeek": 846,
     "timeMonth": 837,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2026-06-29": 291,
-      "2026-06-28": 33,
+      "2026-06-29": 199,
       "2026-06-30": 268,
       "2026-07-01": 384,
       "2026-07-02": 421,
@@ -130,7 +128,7 @@
       "2026-08-17": 79,
       "2026-08-18": 179,
       "2026-08-19": 36,
-      "2026-08-20": 17
+      "2026-08-20": 32
     }
   },
   {
@@ -138,11 +136,11 @@
     "url": "https://www.janaxsoftware.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.janaxsoftware.com.ar.ico",
     "slug": "00-janax-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "86.86%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "95.10%",
+    "uptimeMonth": "86.87%",
     "uptimeYear": "98.07%",
     "time": 3689,
     "timeDay": 3601,
@@ -198,7 +196,7 @@
       "2026-08-17": 21,
       "2026-08-18": 145,
       "2026-08-19": 31,
-      "2026-08-20": 12
+      "2026-08-20": 11
     }
   },
   {
@@ -206,11 +204,11 @@
     "url": "https://www.masvalores.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masvalores.com.ar.ico",
     "slug": "15-mas-valores",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "87.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "87.61%",
     "uptimeYear": "98.15%",
     "time": 1164,
     "timeDay": 1085,
@@ -267,7 +265,7 @@
       "2026-08-17": 16,
       "2026-08-18": 131,
       "2026-08-19": 16,
-      "2026-08-20": 7
+      "2026-08-20": 6
     }
   },
   {
@@ -275,13 +273,13 @@
     "url": "https://www.transportesruta66.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.transportesruta66.com.ar.ico",
     "slug": "20-tr-66",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "88.75%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "88.76%",
     "uptimeYear": "97.50%",
-    "time": 2681,
+    "time": 2682,
     "timeDay": 2186,
     "timeWeek": 2495,
     "timeMonth": 2689,
@@ -341,7 +339,7 @@
       "2026-08-13": 62,
       "2026-08-14": 74,
       "2026-08-18": 97,
-      "2026-08-20": 2
+      "2026-08-20": 1
     }
   },
   {
@@ -464,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2026-08-20": 968,
+      "2026-08-20": 1083,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
