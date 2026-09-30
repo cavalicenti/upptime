@@ -14,7 +14,7 @@
     "timeDay": 5134,
     "timeWeek": 4505,
     "timeMonth": 4632,
-    "timeYear": 4238,
+    "timeYear": 4240,
     "dailyMinutesDown": {
       "2026-07-28": 96,
       "2026-07-29": 179,
@@ -75,7 +75,7 @@
     "timeDay": 1026,
     "timeWeek": 975,
     "timeMonth": 891,
-    "timeYear": 908,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2026-07-28": 90,
       "2026-07-29": 171,
@@ -136,7 +136,7 @@
     "timeDay": 4627,
     "timeWeek": 4375,
     "timeMonth": 3877,
-    "timeYear": 3808,
+    "timeYear": 3809,
     "dailyMinutesDown": {
       "2026-07-17": 49,
       "2026-07-18": 73,
@@ -272,7 +272,7 @@
     "timeDay": 2886,
     "timeWeek": 2660,
     "timeMonth": 2634,
-    "timeYear": 2753,
+    "timeYear": 2754,
     "dailyMinutesDown": {
       "2026-06-26": 38,
       "2026-06-27": 205,
@@ -352,7 +352,7 @@
     "timeDay": 1107,
     "timeWeek": 1444,
     "timeMonth": 1471,
-    "timeYear": 1774,
+    "timeYear": 1776,
     "dailyMinutesDown": {
       "2025-10-28": 204,
       "2025-10-29": 28,
@@ -399,7 +399,7 @@
     "timeDay": 3998,
     "timeWeek": 4756,
     "timeMonth": 4055,
-    "timeYear": 3575,
+    "timeYear": 3579,
     "dailyMinutesDown": {
       "2025-10-28": 204,
       "2025-10-29": 27,
@@ -452,9 +452,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1056,
+    "timeYear": 1057,
     "dailyMinutesDown": {
-      "2026-09-30": 1208,
+      "2026-09-30": 1433,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -826,17 +826,17 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "up",
-    "uptime": "93.38%",
-    "uptimeDay": "33.84%",
-    "uptimeWeek": "24.78%",
-    "uptimeMonth": "26.03%",
+    "status": "down",
+    "uptime": "93.39%",
+    "uptimeDay": "33.85%",
+    "uptimeWeek": "25.50%",
+    "uptimeMonth": "26.54%",
     "uptimeYear": "76.61%",
     "time": 537,
     "timeDay": 987,
     "timeWeek": 1001,
     "timeMonth": 1017,
-    "timeYear": 650,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-12-16": 36,
       "2026-03-15": 23,
@@ -963,7 +963,7 @@
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-29": 950,
-      "2026-09-30": 944
+      "2026-09-30": 945
     }
   }
 ]
