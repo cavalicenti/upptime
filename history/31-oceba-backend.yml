@@ -1,7 +1,7 @@
 url: https://conreg-be.oceba.gba.gov.ar
-status: down
-code: 502
-responseTime: 3689
-lastUpdated: 2026-10-01T09:09:45.402Z
+status: up
+code: 200
+responseTime: 3487
+lastUpdated: 2026-10-01T16:21:44.981Z
 startTime: 2022-12-15T13:24:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
