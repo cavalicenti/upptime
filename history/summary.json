@@ -459,7 +459,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-backend",
     "status": "down",
-    "uptime": "7.32%",
+    "uptime": "7.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-10-15": 212,
+      "2026-10-15": 867,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -842,17 +842,17 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "down",
-    "uptime": "93.09%",
-    "uptimeDay": "30.45%",
-    "uptimeWeek": "24.77%",
+    "status": "up",
+    "uptime": "93.06%",
+    "uptimeDay": "30.53%",
+    "uptimeWeek": "24.78%",
     "uptimeMonth": "29.49%",
-    "uptimeYear": "73.80%",
-    "time": 564,
-    "timeDay": 991,
-    "timeWeek": 959,
-    "timeMonth": 1005,
-    "timeYear": 676,
+    "uptimeYear": "73.67%",
+    "time": 565,
+    "timeDay": 926,
+    "timeWeek": 943,
+    "timeMonth": 999,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2025-12-16": 36,
       "2026-03-15": 23,
@@ -994,7 +994,7 @@
       "2026-10-10": 1440,
       "2026-10-13": 1063,
       "2026-10-14": 919,
-      "2026-10-15": 212
+      "2026-10-15": 866
     }
   }
 ]
