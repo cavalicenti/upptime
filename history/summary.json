@@ -14,7 +14,7 @@
     "timeDay": 4828,
     "timeWeek": 4550,
     "timeMonth": 4407,
-    "timeYear": 4256,
+    "timeYear": 4258,
     "dailyMinutesDown": {
       "2026-07-30": 187,
       "2026-07-31": 125,
@@ -140,7 +140,7 @@
     "timeDay": 3975,
     "timeWeek": 3862,
     "timeMonth": 4128,
-    "timeYear": 3831,
+    "timeYear": 3833,
     "dailyMinutesDown": {
       "2026-07-21": 69,
       "2026-07-24": 132,
@@ -210,7 +210,7 @@
     "timeDay": 1176,
     "timeWeek": 1093,
     "timeMonth": 1131,
-    "timeYear": 1190,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2026-07-18": 26,
       "2026-07-21": 64,
@@ -281,7 +281,7 @@
     "timeDay": 3971,
     "timeWeek": 2788,
     "timeMonth": 2645,
-    "timeYear": 2759,
+    "timeYear": 2760,
     "dailyMinutesDown": {
       "2026-06-27": 19,
       "2026-06-28": 316,
@@ -364,7 +364,7 @@
     "timeDay": 1880,
     "timeWeek": 1552,
     "timeMonth": 1546,
-    "timeYear": 1756,
+    "timeYear": 1758,
     "dailyMinutesDown": {
       "2025-10-28": 204,
       "2025-10-29": 28,
@@ -413,7 +413,7 @@
     "timeDay": 10929,
     "timeWeek": 5939,
     "timeMonth": 4576,
-    "timeYear": 3666,
+    "timeYear": 3670,
     "dailyMinutesDown": {
       "2025-10-28": 204,
       "2025-10-29": 27,
@@ -468,9 +468,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1054,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-10-16": 698,
+      "2026-10-17": 6,
+      "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -833,8 +834,7 @@
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
-      "2025-10-18": 1440,
-      "2025-10-17": 1440
+      "2025-10-18": 1440
     }
   },
   {
@@ -842,17 +842,17 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "up",
-    "uptime": "93.03%",
-    "uptimeDay": "39.72%",
-    "uptimeWeek": "24.60%",
-    "uptimeMonth": "29.54%",
+    "status": "down",
+    "uptime": "93.04%",
+    "uptimeDay": "52.01%",
+    "uptimeWeek": "26.11%",
+    "uptimeMonth": "29.82%",
     "uptimeYear": "73.54%",
     "time": 568,
-    "timeDay": 924,
-    "timeWeek": 932,
-    "timeMonth": 995,
-    "timeYear": 679,
+    "timeDay": 986,
+    "timeWeek": 924,
+    "timeMonth": 1002,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2025-12-16": 36,
       "2026-03-15": 23,
@@ -995,7 +995,8 @@
       "2026-10-13": 1063,
       "2026-10-14": 919,
       "2026-10-15": 869,
-      "2026-10-16": 697
+      "2026-10-16": 697,
+      "2026-10-17": 1
     }
   }
 ]
