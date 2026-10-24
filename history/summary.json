@@ -14,7 +14,7 @@
     "timeDay": 5668,
     "timeWeek": 4615,
     "timeMonth": 4409,
-    "timeYear": 4266,
+    "timeYear": 4267,
     "dailyMinutesDown": {
       "2026-07-31": 125,
       "2026-08-01": 356,
@@ -354,17 +354,17 @@
     "url": "https://conreg-fe.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-fe.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-frontend",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.02%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "98.20%",
     "time": 1600,
     "timeDay": 1801,
     "timeWeek": 1412,
     "timeMonth": 1510,
-    "timeYear": 1762,
+    "timeYear": 1765,
     "dailyMinutesDown": {
       "2025-10-28": 204,
       "2025-10-29": 28,
@@ -395,7 +395,8 @@
       "2026-09-21": 389,
       "2026-09-20": 283,
       "2026-10-01": 432,
-      "2026-10-13": 433
+      "2026-10-13": 433,
+      "2026-10-24": 11
     }
   },
   {
@@ -403,17 +404,17 @@
     "url": "https://conreg-be.oceba.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/conreg-be.oceba.gba.gov.ar.ico",
     "slug": "31-oceba-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "98.12%",
-    "time": 3444,
+    "time": 3446,
     "timeDay": 4942,
     "timeWeek": 4723,
     "timeMonth": 4823,
-    "timeYear": 3652,
+    "timeYear": 3656,
     "dailyMinutesDown": {
       "2025-10-28": 204,
       "2025-10-29": 27,
@@ -450,7 +451,8 @@
       "2026-09-21": 389,
       "2026-09-20": 283,
       "2026-10-01": 432,
-      "2026-10-13": 433
+      "2026-10-13": 433,
+      "2026-10-24": 11
     }
   },
   {
@@ -468,9 +470,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1053,
+    "timeYear": 1054,
     "dailyMinutesDown": {
-      "2026-10-23": 1332,
+      "2026-10-24": 34,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -833,8 +836,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -843,16 +845,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
     "status": "down",
-    "uptime": "92.79%",
-    "uptimeDay": "31.12%",
-    "uptimeWeek": "28.95%",
-    "uptimeMonth": "29.51%",
-    "uptimeYear": "72.18%",
+    "uptime": "92.78%",
+    "uptimeDay": "29.49%",
+    "uptimeWeek": "27.82%",
+    "uptimeMonth": "29.45%",
+    "uptimeYear": "72.16%",
     "time": 591,
     "timeDay": 1138,
     "timeWeek": 1842,
     "timeMonth": 1190,
-    "timeYear": 704,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2026-03-15": 23,
       "2026-03-18": 954,
@@ -1001,7 +1003,8 @@
       "2026-10-20": 772,
       "2026-10-21": 730,
       "2026-10-22": 1012,
-      "2026-10-23": 907
+      "2026-10-23": 1015,
+      "2026-10-24": 34
     }
   }
 ]
