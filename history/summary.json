@@ -14,7 +14,7 @@
     "timeDay": 4756,
     "timeWeek": 4079,
     "timeMonth": 4378,
-    "timeYear": 4281,
+    "timeYear": 4280,
     "dailyMinutesDown": {
       "2026-08-01": 356,
       "2026-07-31": 22,
@@ -367,7 +367,7 @@
     "timeDay": 995,
     "timeWeek": 1048,
     "timeMonth": 1377,
-    "timeYear": 1691,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2025-11-20": 279,
       "2025-12-31": 39,
@@ -415,7 +415,7 @@
     "timeDay": 6108,
     "timeWeek": 4649,
     "timeMonth": 4837,
-    "timeYear": 3730,
+    "timeYear": 3727,
     "dailyMinutesDown": {
       "2025-11-20": 279,
       "2025-11-30": 16,
@@ -469,9 +469,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1057,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2026-11-02": 1096,
+      "2026-11-03": 69,
+      "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -834,8 +835,7 @@
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
-      "2025-11-04": 1440,
-      "2025-11-03": 1440
+      "2025-11-04": 1440
     }
   },
   {
@@ -843,21 +843,20 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "up",
-    "uptime": "93.13%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "27.41%",
-    "uptimeMonth": "25.60%",
-    "uptimeYear": "73.29%",
-    "time": 609,
+    "status": "down",
+    "uptime": "93.17%",
+    "uptimeDay": "28.69%",
+    "uptimeWeek": "27.50%",
+    "uptimeMonth": "25.63%",
+    "uptimeYear": "73.44%",
+    "time": 610,
     "timeDay": 829,
     "timeWeek": 947,
     "timeMonth": 1189,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2026-06-16": 826,
-      "2026-06-15": 40,
       "2026-06-17": 818,
+      "2026-06-16": 87,
       "2026-06-18": 675,
       "2026-06-19": 822,
       "2026-06-22": 869,
@@ -995,7 +994,8 @@
       "2026-10-30": 951,
       "2026-11-02": 1095,
       "2026-11-01": 1440,
-      "2026-10-31": 1440
+      "2026-10-31": 1440,
+      "2026-11-03": 1
     }
   }
 ]
