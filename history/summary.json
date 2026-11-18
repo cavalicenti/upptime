@@ -14,7 +14,7 @@
     "timeDay": 1723,
     "timeWeek": 2391,
     "timeMonth": 3338,
-    "timeYear": 4261,
+    "timeYear": 4260,
     "dailyMinutesDown": {
       "2026-08-01": 356,
       "2026-07-31": 22,
@@ -213,7 +213,7 @@
     "timeDay": 1180,
     "timeWeek": 1372,
     "timeMonth": 1329,
-    "timeYear": 1203,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2026-07-24": 122,
       "2026-07-25": 34,
@@ -359,7 +359,7 @@
     "slug": "31-oceba-frontend",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "0.10%",
+    "uptimeDay": "26.34%",
     "uptimeWeek": "41.16%",
     "uptimeMonth": "77.55%",
     "uptimeYear": "96.41%",
@@ -367,7 +367,7 @@
     "timeDay": 1592,
     "timeWeek": 1142,
     "timeMonth": 1212,
-    "timeYear": 1695,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2025-11-20": 279,
       "2025-12-31": 39,
@@ -420,7 +420,7 @@
     "timeDay": 10251,
     "timeWeek": 4361,
     "timeMonth": 4580,
-    "timeYear": 3814,
+    "timeYear": 3819,
     "dailyMinutesDown": {
       "2025-11-20": 279,
       "2025-11-30": 16,
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-backend",
     "status": "down",
-    "uptime": "7.15%",
+    "uptime": "7.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2026-11-17": 1074,
+      "2026-11-18": 12,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -841,8 +842,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -850,21 +850,20 @@
     "url": "http://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "37-albanesi-frontend",
-    "status": "up",
-    "uptime": "93.11%",
-    "uptimeDay": "30.09%",
-    "uptimeWeek": "24.86%",
-    "uptimeMonth": "24.18%",
-    "uptimeYear": "72.94%",
-    "time": 646,
+    "status": "down",
+    "uptime": "93.15%",
+    "uptimeDay": "30.02%",
+    "uptimeWeek": "25.82%",
+    "uptimeMonth": "25.04%",
+    "uptimeYear": "73.10%",
+    "time": 647,
     "timeDay": 991,
     "timeWeek": 991,
     "timeMonth": 1179,
-    "timeYear": 750,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2026-07-01": 866,
-      "2026-06-30": 89,
       "2026-07-02": 774,
+      "2026-07-01": 100,
       "2026-07-03": 811,
       "2026-07-06": 820,
       "2026-07-05": 1440,
@@ -1002,7 +1001,8 @@
       "2026-11-16": 1049,
       "2026-11-15": 1440,
       "2026-11-14": 1345,
-      "2026-11-17": 1007
+      "2026-11-17": 1007,
+      "2026-11-18": 1
     }
   }
 ]
